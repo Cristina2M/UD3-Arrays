@@ -7,7 +7,7 @@ public class ejercicio12 {
 //mostrará las sumas parciales de filas y columnas igual que si de una hoja de cálculo se tratara. La suma
 //total debe aparecer en la esquina inferior derecha.
 
-
+        
 
 
     }
